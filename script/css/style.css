@@ -1,0 +1,11 @@
+.hide {
+    display: none;
+  }
+  .myDIV{
+    width: 50%;
+  }
+  .myDIV:hover + .hide {
+    display: block;
+    color: black;
+    font-size: small;
+  }

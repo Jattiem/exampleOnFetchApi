@@ -1,0 +1,179 @@
+
+{
+    "results": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Laíza",
+          "last": "Costa"
+        },
+        "location": {
+          "street": {
+            "number": 3714,
+            "name": "Rua São Francisco "
+          },
+          "city": "Volta Redonda",
+          "state": "Bahia",
+          "country": "Brazil",
+          "postcode": 74066,
+          "coordinates": {
+            "latitude": "-77.0162",
+            "longitude": "115.9957"
+          },
+          "timezone": {
+            "offset": "+10:00",
+            "description": "Eastern Australia, Guam, Vladivostok"
+          }
+        },
+        "email": "laiza.costa@example.com",
+        "login": {
+          "uuid": "825f5bf2-b4b3-4280-8b78-954d9b16e44c",
+          "username": "orangemeercat415",
+          "password": "iiiiiii",
+          "salt": "qQnkFbrS",
+          "md5": "96ee3f7601fd9d0c74df5d9f1bf88d4d",
+          "sha1": "9107c8a7ad7d042aefad78132a9764b2f7863f9d",
+          "sha256": "a30202503f93b057ea20f11b02c06ab08f365729f4ee77f2839560ca49436dbc"
+        },
+        "dob": {
+          "date": "1958-05-24T04:05:23.673Z",
+          "age": 64
+        },
+        "registered": {
+          "date": "2016-11-19T16:17:05.066Z",
+          "age": 6
+        },
+        "phone": "(70) 4822-7956",
+        "cell": "(74) 8169-2600",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/56.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Mrs",
+          "first": "Ely",
+          "last": "Moura"
+        },
+        "location": {
+          "street": {
+            "number": 1402,
+            "name": "Rua da Saudade"
+          },
+          "city": "Salto",
+          "state": "Distrito Federal",
+          "country": "Brazil",
+          "postcode": 16357,
+          "coordinates": {
+            "latitude": "79.5674",
+            "longitude": "6.2417"
+          },
+          "timezone": {
+            "offset": "+7:00",
+            "description": "Bangkok, Hanoi, Jakarta"
+          }
+        },
+        "email": "ely.moura@example.com",
+        "login": {
+          "uuid": "ab7d2ae4-b001-4d4a-bd23-c3109169e679",
+          "username": "organiczebra334",
+          "password": "modena",
+          "salt": "dLgyL7xE",
+          "md5": "bf6d149913e21b8f4616d88ef0d366a8",
+          "sha1": "7c56b6f9e888dad21bbd76248f1bb4e12cb92c9f",
+          "sha256": "3413de7bc2054a0deb288d8d65e81a9ea78c7efebde490882609fb2a379d0ab5"
+        },
+        "dob": {
+          "date": "1980-03-17T06:53:56.712Z",
+          "age": 42
+        },
+        "registered": {
+          "date": "2014-04-11T11:28:12.914Z",
+          "age": 8
+        },
+        "phone": "(73) 8046-7644",
+        "cell": "(89) 2924-4564",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/57.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Mrs",
+          "first": "Milla",
+          "last": "Elo"
+        },
+        "location": {
+          "street": {
+            "number": 9296,
+            "name": "Mechelininkatu"
+          },
+          "city": "Salla",
+          "state": "Satakunta",
+          "country": "Finland",
+          "postcode": 14081,
+          "coordinates": {
+            "latitude": "16.2633",
+            "longitude": "176.7075"
+          },
+          "timezone": {
+            "offset": "-4:00",
+            "description": "Atlantic Time (Canada), Caracas, La Paz"
+          }
+        },
+        "email": "milla.elo@example.com",
+        "login": {
+          "uuid": "4ab9c5e0-7ac9-477d-b3f4-778977d9064e",
+          "username": "happyladybug534",
+          "password": "clarence",
+          "salt": "4wy5vNko",
+          "md5": "3c9123f0ec09478e3cc311084840398c",
+          "sha1": "ab653b01557a67d7499690f9ee14b8e05bf2a3cc",
+          "sha256": "bf2da9decd1a5531e40fc590af994ce139cb32f4d7703b72c26439dc71d9263f"
+        },
+        "dob": {
+          "date": "1977-03-12T19:20:58.587Z",
+          "age": 45
+        },
+        "registered": {
+          "date": "2005-07-02T12:31:56.272Z",
+          "age": 17
+        },
+        "phone": "03-638-566",
+        "cell": "043-257-38-22",
+        "id": {
+          "name": "HETU",
+          "value": "NaNNA946undefined"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/5.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+        },
+        "nat": "FI"
+      }
+    ],
+    "info": {
+      "seed": "3e2597d0694e3915",
+      "results": 3,
+      "page": 1,
+      "version": "1.3"
+    }
+  }
